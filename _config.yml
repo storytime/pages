@@ -19,7 +19,7 @@ kramdown:
 # Third-party services
 # just leave someone empty to disable it
 google_analytics: UA-104486159-1
-disqus_shortname:
+disqus_shortname: https-storytime-github-io-pages
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
